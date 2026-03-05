@@ -1,0 +1,4 @@
+ecosystem: algorand
+repos:
+  - name: algorand-project
+    url: https://github.com/pravalika-reddy06/algorand-project
